@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Hoodie (Azul)",
+    "content": "- 50% Algodón, 50% Polyester\n- Importado\n- Con cierre\n- Lavado a máquina\n- Hombro caído, manga larga\n- Tejido grueso y robusto\n- Doble costura",
+    "meta_description": "Hoodie (A293)",
+    "meta_title": "Hoodie (azul)",
+    "price": 200,
+    "slug": "hoodie-azul",
+    "published_at": "2021-02-10T20:18:58.822Z",
+    "created_at": "2021-02-10T20:18:55.094Z",
+    "updated_at": "2021-02-10T20:18:58.899Z",
+    "image": {
+      "id": 1,
+      "name": "img-4.d8a58ef2.png",
+      "alternativeText": "",
+      "caption": "",
+      "width": 800,
+      "height": 800,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_img-4.d8a58ef2.png",
+          "hash": "thumbnail_img_4_d8a58ef2_b523d3fd4e",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 23.57,
+          "path": null,
+          "url": "/uploads/thumbnail_img_4_d8a58ef2_b523d3fd4e.png"
+        },
+        "medium": {
+          "name": "medium_img-4.d8a58ef2.png",
+          "hash": "medium_img_4_d8a58ef2_b523d3fd4e",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 750,
+          "height": 750,
+          "size": 387.75,
+          "path": null,
+          "url": "/uploads/medium_img_4_d8a58ef2_b523d3fd4e.png"
+        },
+        "small": {
+          "name": "small_img-4.d8a58ef2.png",
+          "hash": "small_img_4_d8a58ef2_b523d3fd4e",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 500,
+          "height": 500,
+          "size": 173.58,
+          "path": null,
+          "url": "/uploads/small_img_4_d8a58ef2_b523d3fd4e.png"
+        }
+      },
+      "hash": "img_4_d8a58ef2_b523d3fd4e",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 187.4,
+      "url": "/uploads/img_4_d8a58ef2_b523d3fd4e.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-02-10T20:08:33.669Z",
+      "updated_at": "2021-02-10T20:08:33.709Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Camiseta negra",
+    "content": "100% Algodón\nCuello abierto.\nDoble bordado en el cuello.\nMangas y doblados",
+    "meta_description": "camiseta negra(A273)",
+    "meta_title": "camiseta negra",
+    "price": 400,
+    "slug": "camiseta-negra",
+    "published_at": "2021-02-10T20:26:54.743Z",
+    "created_at": "2021-02-10T20:26:51.542Z",
+    "updated_at": "2021-02-10T20:26:54.838Z",
+    "image": {
+      "id": 2,
+      "name": "img-3.455e6415.png",
+      "alternativeText": "",
+      "caption": "",
+      "width": 800,
+      "height": 800,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_img-3.455e6415.png",
+          "hash": "thumbnail_img_3_455e6415_b80d89c914",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 18.58,
+          "path": null,
+          "url": "/uploads/thumbnail_img_3_455e6415_b80d89c914.png"
+        },
+        "medium": {
+          "name": "medium_img-3.455e6415.png",
+          "hash": "medium_img_3_455e6415_b80d89c914",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 750,
+          "height": 750,
+          "size": 345.71,
+          "path": null,
+          "url": "/uploads/medium_img_3_455e6415_b80d89c914.png"
+        },
+        "small": {
+          "name": "small_img-3.455e6415.png",
+          "hash": "small_img_3_455e6415_b80d89c914",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 500,
+          "height": 500,
+          "size": 155.92,
+          "path": null,
+          "url": "/uploads/small_img_3_455e6415_b80d89c914.png"
+        }
+      },
+      "hash": "img_3_455e6415_b80d89c914",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 153.16,
+      "url": "/uploads/img_3_455e6415_b80d89c914.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-02-10T20:22:45.553Z",
+      "updated_at": "2021-02-10T20:22:45.675Z"
+    }
+  }
+]
